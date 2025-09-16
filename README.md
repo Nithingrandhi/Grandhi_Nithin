@@ -2,6 +2,8 @@
 
 This repository contains Java programs created in Eclipse IDE.  
 
+How To open programs go to src and Grandhi_Nithin Package there are having programs
+
 ## Contents
 - Problem_1.java  
 - Problem_2.java  
